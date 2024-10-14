@@ -1,0 +1,1 @@
+This project is meant to start learning RAG and based on one of my interests.
